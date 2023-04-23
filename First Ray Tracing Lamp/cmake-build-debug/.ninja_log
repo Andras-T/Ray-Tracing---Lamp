@@ -1,0 +1,84 @@
+# ninja log v5
+3977	3988	0	F:/CLion_Workspace/Grafika/Project01/src/framework.cpp	9ceccd2007ddaec7
+4780	4889	6975108446247542	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-done	43623ce7d5424210
+9	466	6982652021568917	glew-prefix/src/glew-stamp/glew-mkdir	e760a0f2ae269291
+8	512	6975108402311367	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir	585a29f369c62c7d
+467	2644	6982652043390512	glew-prefix/src/glew-stamp/glew-download	c43a9097f6c23072
+512	4480	6975108442168688	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download	d2cf490f85601605
+5045	5108	6982652068027278	CMakeFiles/glut-complete	65e6943a88bc4fbf
+2746	2791	6982652044866562	glew-prefix/src/glew-stamp/glew-configure	3d784b448f6a761b
+2644	2700	6982652043919102	glew-prefix/src/glew-stamp/glew-update	fca970a8013fa9d6
+4480	4533	6975108442687271	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update	d69e897463b9d2dc
+2700	2746	6982652044407793	glew-prefix/src/glew-stamp/glew-patch	4c8066e3ec7bb148
+4533	4579	6975108443155983	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch	f357ead79827850f
+4828	4873	6982652065674534	glut-prefix/src/glut-stamp/glut-update	eb522e2fc034006a
+4580	4632	6975108443674580	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure	82b26d873a836165
+3521	3567	6975108433029282	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-configure	d3832ae9ea2dcb5e
+5045	5108	6982652068027278	glut-prefix/src/glut-stamp/glut-done	65e6943a88bc4fbf
+2792	2835	6982652045295410	glew-prefix/src/glew-stamp/glew-build	b69000cb6376966a
+12	717	7031277864154819	build.ninja	6eb66a06ffe00d6f
+4632	4690	6975108444262963	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build	3bd6645dff68360a
+2877	2938	6982652046342613	CMakeFiles/glew-complete	125bfbf22285f88e
+4873	4915	6982652066093130	glut-prefix/src/glut-stamp/glut-patch	50ff73b335085e0f
+2835	2877	6982652045724266	glew-prefix/src/glew-stamp/glew-install	5cdaa012f8415da3
+4690	4780	6975108445160520	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install	7ade45d62840ec9f
+4780	4889	6975108446247542	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/CMakeFiles/glew-complete	43623ce7d5424210
+3664	3736	6975108434734628	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-done	8cd87a8de02cc2de
+2877	2938	6982652046342613	glew-prefix/src/glew-stamp/glew-done	125bfbf22285f88e
+3	500	6982652021898032	glut-prefix/src/glut-stamp/glut-mkdir	48f0a87197942766
+500	4828	6982652065225441	glut-prefix/src/glut-stamp/glut-download	e4f08d7915088133
+3664	3736	6975108434734628	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/CMakeFiles/glut-complete	8cd87a8de02cc2de
+3	477	6975108401812734	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-mkdir	174dcbcf3e93223
+477	3430	6975108431658295	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-download	c1399d1dc43eb728
+3430	3476	6975108432126934	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-update	f9a551c52006f122
+3476	3521	6975108432580517	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-patch	7a98e5a65975776f
+4915	4958	6982652066526089	glut-prefix/src/glut-stamp/glut-configure	5f4a9e8d7c81f121
+3613	3664	6975108433996654	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-install	fb0b14501312ae4d
+4958	5001	6982652066960157	glut-prefix/src/glut-stamp/glut-build	894f55d73c35c32f
+3567	3613	6975108433498074	F:/CLion_Workspace/Grafika/Project01/cmake-build-debug/glut-prefix/src/glut-stamp/glut-build	45428c4438ebe933
+5001	5045	6982652067399007	glut-prefix/src/glut-stamp/glut-install	a4b0a39533131bc4
+3975	3984	0	F:/CLion_Workspace/Grafika/Project01/src/Skeleton.cpp	9ceccd2007ddaec7
+5121	6590	6982652082837661	CMakeFiles/program.dir/src/framework.cpp.obj	6a6f1966d6a578dc
+5118	6616	6982652083106941	CMakeFiles/program.dir/src/Skeleton.cpp.obj	333d7d85c1d94ab
+6616	6864	6982652084303730	program.exe	8a666b1c74995e45
+9	2837	7031277990984416	glew-prefix/src/glew-stamp/glew-mkdir	d47cdc0067a541cb
+9	2837	7031277990984416	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir	d47cdc0067a541cb
+3	2983	7031277992480392	glut-prefix/src/glut-stamp/glut-mkdir	afd9c8cedb8d0c74
+3	2983	7031277992480392	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-mkdir	afd9c8cedb8d0c74
+2838	4475	7031278007410312	glew-prefix/src/glew-stamp/glew-download	ac0061d3e9900805
+2838	4475	7031278007410312	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download	ac0061d3e9900805
+4475	4527	7031278007928918	glew-prefix/src/glew-stamp/glew-update	bcacf46e97bcec6e
+4475	4527	7031278007928918	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update	bcacf46e97bcec6e
+4527	4571	7031278008367747	glew-prefix/src/glew-stamp/glew-patch	3cdc4dd0ea67d78e
+4527	4571	7031278008367747	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch	3cdc4dd0ea67d78e
+4571	4616	7031278008816538	glew-prefix/src/glew-stamp/glew-configure	19ab77e70eb5b767
+4571	4616	7031278008816538	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure	19ab77e70eb5b767
+4616	4661	7031278009265337	glew-prefix/src/glew-stamp/glew-build	7d36034c76e31ea4
+4616	4661	7031278009265337	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build	7d36034c76e31ea4
+4661	4722	7031278009873699	glew-prefix/src/glew-stamp/glew-install	45d79f9e9a712e7a
+4661	4722	7031278009873699	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install	45d79f9e9a712e7a
+4722	4817	7031278010701488	CMakeFiles/glew-complete	793a07e906abff9b
+4722	4817	7031278010701488	glew-prefix/src/glew-stamp/glew-done	793a07e906abff9b
+4722	4817	7031278010701488	D:/References/First Ray Tracing Lamp/cmake-build-debug/CMakeFiles/glew-complete	793a07e906abff9b
+4722	4817	7031278010701488	D:/References/First Ray Tracing Lamp/cmake-build-debug/glew-prefix/src/glew-stamp/glew-done	793a07e906abff9b
+2983	7280	7031278035455255	glut-prefix/src/glut-stamp/glut-download	f8790a9819287f84
+2983	7280	7031278035455255	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-download	f8790a9819287f84
+7280	7328	7031278035933753	glut-prefix/src/glut-stamp/glut-update	d1817c412ee61695
+7280	7328	7031278035933753	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-update	d1817c412ee61695
+7328	7371	7031278036372575	glut-prefix/src/glut-stamp/glut-patch	6f4d5ef5283258d4
+7328	7371	7031278036372575	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-patch	6f4d5ef5283258d4
+7371	7416	7031278036821380	glut-prefix/src/glut-stamp/glut-configure	31d0794098f874ab
+7371	7416	7031278036821380	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-configure	31d0794098f874ab
+7416	7459	7031278037250230	glut-prefix/src/glut-stamp/glut-build	5a93f68001b2efc4
+7416	7459	7031278037250230	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-build	5a93f68001b2efc4
+7459	7510	7031278037738920	glut-prefix/src/glut-stamp/glut-install	3b1f25f02234a428
+7459	7510	7031278037738920	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-install	3b1f25f02234a428
+7511	7585	7031278038496871	CMakeFiles/glut-complete	aa1756059df097d3
+7511	7585	7031278038496871	glut-prefix/src/glut-stamp/glut-done	aa1756059df097d3
+7511	7585	7031278038496871	D:/References/First Ray Tracing Lamp/cmake-build-debug/CMakeFiles/glut-complete	aa1756059df097d3
+7511	7585	7031278038496871	D:/References/First Ray Tracing Lamp/cmake-build-debug/glut-prefix/src/glut-stamp/glut-done	aa1756059df097d3
+7585	7596	0	D:/References/First Ray Tracing Lamp/src/Skeleton.cpp	9ceccd2007ddaec7
+7590	7600	0	D:/References/First Ray Tracing Lamp/src/framework.cpp	9ceccd2007ddaec7
+7600	9177	7031278054424135	CMakeFiles/program.dir/src/framework.cpp.obj	2a109f7e52af57a4
+7597	9203	7031278054683427	CMakeFiles/program.dir/src/Skeleton.cpp.obj	c8d3cf522769aea4
+9204	9486	7031278056388855	program.exe	3773c5670b16ead4
